@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alura Geek</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="assets/Logo.png" alt="Logo Alura">
+    </header>
+    <main>
+        <section class="products">
+            <h1>Meus Produtos:</h1>
+            <ul data-lista class="products-list"></ul>
+        </section>
+        <section class="new-products">
+            <h1>Adicionar Produto:</h1>
+            <form action="adiciona-produto.php" data-form>
+                <input type="text" name="nome" id="nome" placeholder="nome..." data-nome>
+                <input type="number" name="valor" id="valor" placeholder="valor..." data-preco>
+                <input type="url" name="imagem" id="imagem" placeholder="imagem..." data-imagem>
+                <div class="buttons">
+                    <button type="submit" class="button-submit">Guardar</button>
+                    <button type="reset" class="button-reset">Limpar</button>
+                </div>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <img src="assets/Logo.png" alt="Logo Alura">
+        <span>Desenvolvido por Miriam</span>
+        <span>ONE - Alura + Oracle - 2024</span>
+    </footer>
+    <script src="js/script.js" type="module"></script>
+</body>
+</html>

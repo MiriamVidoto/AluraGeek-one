@@ -1,0 +1,58 @@
+{
+    "produtos": [
+      {
+        "id": "starwars-vader",
+        "nome": "Caneca Star Wars Darth Vader",
+        "preco": "R$39,90",
+        "imagem": "https://cdn.pixabay.com/photo/2020/05/17/06/33/geek-pride-day-5180266_1280.jpg"
+      },
+      {
+        "id": "harrypotter-hogwarts",
+        "nome": "Caneca Harry Potter Hogwarts",
+        "preco": "R$44,90",
+        "imagem": "https://cdn.pixabay.com/photo/2020/05/17/06/33/geek-pride-day-5180266_1280.jpg"
+      },
+      {
+        "id": "gameofthrones-stark",
+        "nome": "Caneca Game of Thrones Casa Stark",
+        "preco": "R$35,90",
+        "imagem": "https://cdn.pixabay.com/photo/2020/05/17/06/33/geek-pride-day-5180266_1280.jpg"
+      },
+      {
+        "id": "marvel-avengers-endgame",
+        "nome": "Camiseta Marvel Avengers Endgame",
+        "preco": "R$79,90",
+        "imagem": "https://cdn.pixabay.com/photo/2020/05/17/06/33/geek-pride-day-5180266_1280.jpg"
+      },
+      {
+        "id": "starwars-stormtrooper",
+        "nome": "Camiseta Star Wars Stormtrooper",
+        "preco": "R$69,90",
+        "imagem": "https://cdn.pixabay.com/photo/2020/05/17/06/33/geek-pride-day-5180266_1280.jpg"
+      },
+      {
+        "id": "harrypotter-mapa-maroto",
+        "nome": "Camiseta Harry Potter Mapa do Maroto",
+        "preco": "R$59,90",
+        "imagem": "https://cdn.pixabay.com/photo/2020/05/17/06/33/geek-pride-day-5180266_1280.jpg"
+      },
+      {
+        "id": "senhor-dos-aneis-sociedade-anel",
+        "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+        "preco": "R$49,90",
+        "imagem": "https://cdn.pixabay.com/photo/2020/05/17/06/33/geek-pride-day-5180266_1280.jpg"
+      },
+      {
+        "id": "duna",
+        "nome": "Duna",
+        "preco": "R$89,90",
+        "imagem": "https://cdn.pixabay.com/photo/2020/05/17/06/33/geek-pride-day-5180266_1280.jpg"
+      },
+      {
+        "id": "guia-mochileiro-galaxias",
+        "nome": "Guia do Mochileiro das Galáxias",
+        "preco": "R$34,90",
+        "imagem": "https://cdn.pixabay.com/photo/2020/05/17/06/33/geek-pride-day-5180266_1280.jpg"
+      }
+    ]
+}
