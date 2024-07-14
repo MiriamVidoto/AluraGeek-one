@@ -166,6 +166,18 @@ form input::placeholder {
 
 @media (max-width: 768px) {
     main {
-        flex-direction: column;
+        flex-direction: column-reverse;
+    }
+
+    .products {
+        width: 100%;
+    }
+
+    .new-products {
+        width: 100%;
+    }
+
+    form {
+        width: 80%;
     }
 }
